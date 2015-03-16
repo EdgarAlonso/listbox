@@ -1,0 +1,72 @@
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.dll
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.pdb
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\resources.pri
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\AppxManifest.xml
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Libro.build.appxrecipe
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\AppManifest.xaml
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\Bin\Debug\Libro_Debug_AnyCPU.xap
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\App.g.cs
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\MainPage.g.cs
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\Libro.g.resources
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\Libro.Resources.AppResources.resources
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\Libro.csproj.GenerateResource.Cache
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\Libro.dll
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\Libro.pdb
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\priconfig.xml
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\priconfig.xml.intermediate
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\layout.resfiles
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\layout.resfiles.intermediate
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\resources.resfiles
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\resources.resfiles.intermediate
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\pri.resfiles
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\pri.resfiles.intermediate
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\qualifiers.txt
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\qualifiers.txt.intermediate
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\ProjectArchitectures.txt
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\MDILProjectFiles.xml
+c:\users\dariofernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\XapCacheFile.xml
+C:\Users\DarioFernando\documents\visual studio 2013\Projects\Libro\Libro\obj\Debug\LibrosPagina.g.cs
+G:\Projects\Libro\Libro\Bin\Debug\Assets\ApplicationIcon.png
+G:\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\Projects\Libro\Libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\Projects\Libro\Libro\Bin\Debug\Libro.dll
+G:\Projects\Libro\Libro\Bin\Debug\Libro.pdb
+G:\Projects\Libro\Libro\Bin\Debug\resources.pri
+G:\Projects\Libro\Libro\Bin\Debug\AppxManifest.xml
+G:\Projects\Libro\Libro\Bin\Debug\Libro.build.appxrecipe
+G:\Projects\Libro\Libro\Bin\Debug\Properties\WMAppManifest.xml
+G:\Projects\Libro\Libro\Bin\Debug\AppManifest.xaml
+G:\Projects\Libro\Libro\Bin\Debug\Libro_Debug_AnyCPU.xap
+G:\Projects\Libro\Libro\obj\Debug\App.g.cs
+G:\Projects\Libro\Libro\obj\Debug\LibrosPagina.g.cs
+G:\Projects\Libro\Libro\obj\Debug\MainPage.g.cs
+G:\Projects\Libro\Libro\obj\Debug\Libro.g.resources
+G:\Projects\Libro\Libro\obj\Debug\Libro.Resources.AppResources.resources
+G:\Projects\Libro\Libro\obj\Debug\Libro.csproj.GenerateResource.Cache
+G:\Projects\Libro\Libro\obj\Debug\Libro.dll
+G:\Projects\Libro\Libro\obj\Debug\Libro.pdb
+G:\Projects\Libro\Libro\obj\Debug\priconfig.xml
+G:\Projects\Libro\Libro\obj\Debug\priconfig.xml.intermediate
+G:\Projects\Libro\Libro\obj\Debug\layout.resfiles
+G:\Projects\Libro\Libro\obj\Debug\layout.resfiles.intermediate
+G:\Projects\Libro\Libro\obj\Debug\resources.resfiles
+G:\Projects\Libro\Libro\obj\Debug\resources.resfiles.intermediate
+G:\Projects\Libro\Libro\obj\Debug\pri.resfiles
+G:\Projects\Libro\Libro\obj\Debug\pri.resfiles.intermediate
+G:\Projects\Libro\Libro\obj\Debug\qualifiers.txt
+G:\Projects\Libro\Libro\obj\Debug\qualifiers.txt.intermediate
+G:\Projects\Libro\Libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Projects\Libro\Libro\obj\Debug\ProjectArchitectures.txt
+G:\Projects\Libro\Libro\obj\Debug\MDILProjectFiles.xml
+G:\Projects\Libro\Libro\obj\Debug\XapCacheFile.xml
